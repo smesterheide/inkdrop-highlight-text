@@ -1,0 +1,15 @@
+{
+  "name": "highlight-text",
+  "main": "./lib/highlight-text",
+  "version": "0.0.0",
+  "description": "Markdown text highlighting extension",
+  "keywords": [],
+  "repository": "https://github.com/notapianokey/inkdrop-highlight-text",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=3.7.3 <4.0.0"
+  },
+  "dependencies": {
+    "remark-mark": "0.0.0"
+  }
+}
